@@ -18,6 +18,7 @@
  *
  *  Sentrifugo Support <support@sentrifugo.com>
  ********************************************************************************/ 
+// Test code added
 $filepath = 'install';  
 require_once 'public/db_constants.php';
 require_once 'public/constants.php';
